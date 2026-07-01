@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Qibla Compass — Privacy Policy</title>
+<style>
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    max-width: 680px;
+    margin: 0 auto;
+    padding: 48px 24px 80px;
+    color: #1c1c1e;
+    line-height: 1.6;
+    background: #ffffff;
+  }
+  h1 {
+    font-size: 28px;
+    margin-bottom: 4px;
+  }
+  .subtitle {
+    color: #6e6e73;
+    font-size: 16px;
+    margin-bottom: 40px;
+  }
+  h2 {
+    font-size: 20px;
+    margin-top: 40px;
+    border-bottom: 1px solid #e5e5ea;
+    padding-bottom: 8px;
+  }
+  a {
+    color: #007aff;
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+  footer {
+    margin-top: 60px;
+    color: #8e8e93;
+    font-size: 13px;
+  }
+</style>
+</head>
+<body>
+
+  <h1>Privacy Policy</h1>
+  <p class="subtitle">Qibla Compass — Last updated July 2026</p>
+
+  <h2>Overview</h2>
+  <p>
+    Qibla Compass ("the app") is designed with your privacy as a priority. This policy
+    explains what information the app accesses and how it is used.
+  </p>
+
+  <h2>Information We Collect</h2>
+  <p>
+    Qibla Compass does not collect, store, transmit, or share any personal information.
+    The app does not have a backend server, does not require account creation or sign-in,
+    and does not use analytics or advertising services.
+  </p>
+
+  <h2>Location Data</h2>
+  <p>
+    The app requests access to your device's location ("While Using the App") solely to
+    calculate the direction (bearing) from your current position to the Kaaba in Mecca, and
+    to display this on the map. This calculation happens entirely on your device. Your
+    location is never transmitted off your device, stored persistently, or shared with any
+    third party.
+  </p>
+
+  <h2>Compass / Motion Data</h2>
+  <p>
+    The app uses your device's built-in compass (magnetometer) to determine your current
+    heading, purely to display the live compass overlay. This data is processed on-device
+    only and is not stored or transmitted.
+  </p>
+
+  <h2>Third-Party Map Services</h2>
+  <p>
+    The app allows you to choose between Apple Maps and Google Maps as a background map.
+    When Google Maps is selected, map tile requests are handled directly by Google's Maps
+    SDK in accordance with
+    <a href="https://policies.google.com/privacy" target="_blank" rel="noopener">Google's Privacy Policy</a>.
+    Qibla Compass itself does not collect or receive any data from these map providers beyond
+    what is necessary to render the map.
+  </p>
+
+  <h2>Children's Privacy</h2>
+  <p>
+    Qibla Compass does not knowingly collect any information from anyone, including children
+    under the age of 13, as the app does not collect personal information from any user.
+  </p>
+
+  <h2>Changes to This Policy</h2>
+  <p>
+    This privacy policy may be updated from time to time. Any changes will be reflected on
+    this page with an updated revision date.
+  </p>
+
+  <h2>Contact</h2>
+  <p>
+    If you have any questions about this privacy policy, please contact us at
+    <a href="mailto:yzn7nv8ryn@privaterelay.appleid.com">yzn7nv8ryn@privaterelay.appleid.com</a>.
+  </p>
+
+  <footer>
+    &copy; 2026 Qibla Compass. All rights reserved.
+  </footer>
+
+</body>
+</html>
